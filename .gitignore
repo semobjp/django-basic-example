@@ -1,3 +1,6 @@
 env/
 *.pyc
 __pycache__/
+.coverage
+db.sqlite3
+htmlcov/

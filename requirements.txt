@@ -1,2 +1,4 @@
 Django==1.11.6
 pytz==2017.2
+coverage==4.4.1
+model-mommy==1.4.0
